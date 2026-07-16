@@ -7,12 +7,12 @@ window.SITE_CONFIG = {
   role: "独立开发者",
   bio: "🐷 It's me!",
   intro: "你好！我是 Chren702。这里是我的个人主页，展示了我的一些开源项目和日常动态。",
-  email: "2724672543@qq.com",
+  email: "2724672543wt@gmail.com",
   github: "https://github.com/Chren702",
   socials: [
     { label: "GitHub", short: "GH", url: "https://github.com/Chren702" },
     { label: "哔哩哔哩", short: "BL", url: "https://space.bilibili.com/" },
-    { label: "邮箱", short: "EM", url: "mailto:2724672543@qq.com" },
+    { label: "邮箱", short: "EM", url: "https://2724672543wt@gmail.com" },
   ],
   projects: [
     {
