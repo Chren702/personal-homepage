@@ -1,22 +1,22 @@
 // 只需要修改这个文件，就能替换页面中的个人信息和项目内容。
 window.SITE_CONFIG = {
-  name: "你的名字",
-  handle: "@yourname",
+  name: "Chren702",
+  handle: "2724672543@qq.com",
   initials: "YN",
-  location: "中国 · 宁波",
-  role: "独立开发者 / 创作者",
+  location: "中国 · 重庆",
+  role: "独立开发者 ",
   bio: "热爱创造，也喜欢记录生活中值得记住的细节。",
   intro:
     "你好，欢迎来到我的个人主页。这里收录我的开源项目、学习笔记，以及一些正在发生的有趣事情。",
   email: "hello@example.com",
-  github: "https://github.com/yourname",
+  github: "https://github.com/Chren702",
   stats: {
     projects: "06",
     years: "03",
     notes: "12",
   },
   socials: [
-    { label: "GitHub", short: "GH", url: "https://github.com/yourname" },
+    { label: "GitHub", short: "GH", url: "https://github.com/Chren702" },
     { label: "哔哩哔哩", short: "BL", url: "https://space.bilibili.com/" },
     { label: "邮箱", short: "EM", url: "mailto:hello@example.com" },
   ],
@@ -27,7 +27,7 @@ window.SITE_CONFIG = {
       language: "JavaScript",
       color: "#f1c40f",
       stars: "128",
-      url: "https://github.com/yourname",
+      url: "https://github.com/Chren702",
       featured: true,
     },
     {
@@ -36,7 +36,7 @@ window.SITE_CONFIG = {
       language: "Python",
       color: "#3572a5",
       stars: "42",
-      url: "https://github.com/yourname",
+      url: "https://github.com/Chren702",
     },
     {
       name: "Tiny Web App",
@@ -44,7 +44,7 @@ window.SITE_CONFIG = {
       language: "TypeScript",
       color: "#3178c6",
       stars: "27",
-      url: "https://github.com/yourname",
+      url: "https://github.com/Chren702",
     },
     {
       name: "Learning Notes",
@@ -52,7 +52,7 @@ window.SITE_CONFIG = {
       language: "Markdown",
       color: "#7c3aed",
       stars: "16",
-      url: "https://github.com/yourname",
+      url: "https://github.com/Chren702",
     },
   ],
   notes: [
