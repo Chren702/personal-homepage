@@ -14,6 +14,7 @@ window.SITE_CONFIG = {
     { label: "哔哩哔哩", short: "BL", url: "https://space.bilibili.com/" },
     { label: "邮箱", short: "EM", url: "https://2724672543wt@gmail.com" },
   ],
+  
   projects: [
     {
       name: "My Awesome Project",
